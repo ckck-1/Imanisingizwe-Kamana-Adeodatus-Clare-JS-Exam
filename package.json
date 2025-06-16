@@ -1,0 +1,16 @@
+{
+  "name": "imanisingizwe-kamana-adeodatus-clare",
+  "version": "1.0.0",
+  "description": "JS term 3 exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index"
+  },
+  "author": "Clare",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
